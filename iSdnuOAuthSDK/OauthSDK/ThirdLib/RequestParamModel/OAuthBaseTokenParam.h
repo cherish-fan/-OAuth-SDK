@@ -10,7 +10,7 @@
 
 @interface OAuthBaseTokenParam : NSObject
 
-@property (nonatomic, copy) NSString *oauth_callback;
+
 @property (nonatomic, copy) NSString *oauth_consumer_key;
 @property (nonatomic, copy) NSString *oauth_nonce;
 @property (nonatomic, copy) NSString *oauth_signature;

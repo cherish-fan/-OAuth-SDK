@@ -13,7 +13,7 @@
 
 @property (nonatomic, copy) NSString *oauth_verifier;
 
-
+@property (nonatomic,copy)NSString *oauth_token;
 
 
 
